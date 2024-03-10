@@ -1,0 +1,22 @@
+.div_a{
+    background-color: #253031;
+    width: 1000px;
+    height: 1000px;
+}
+.div_b{
+    background-color: #315659;
+    width: 600px;
+    height: 600px;
+}
+.texto{
+    background-color: #2978a0;
+    color: #c6e0ff;
+    font-family: monospace;
+    font-size: 100px;
+    font-weight: 600;
+}
+.div_d{
+    background-color: #bcab79;
+    width: 50vw;
+    height: 50vw;
+}
